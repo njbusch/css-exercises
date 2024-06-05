@@ -8,3 +8,7 @@
     background-color: hsl(60, 100%, 50%);
 }
 
+.button-one .button-two {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times News Roman', sans-serif;
+}
